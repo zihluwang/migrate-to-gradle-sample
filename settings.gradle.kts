@@ -1,0 +1,1 @@
+rootProject.name = "migrate-to-gradle-sample"
